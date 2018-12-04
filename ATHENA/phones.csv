@@ -1,0 +1,20 @@
+ID,Modelo,Camara_trasera,Flash_led_trasero,Camara_frontal,Flash_led_frontal,Pantalla,RAM,Almacenamiento,Ranura_SD,Software,Bateria,Color,SIM,Precio,Ranking
+1,Samsung J1 Ace,5,SI,2,NO,4.3,1,8,SI,Android,1850,Blanco,Single,3700,0
+2,Samsung J5,13,SI,5,SI,5,2,16,SI,Android,2400,Dorado,Single,6200,2
+3,Samsung J7 Pro,13,SI,13,SI,5.5,3,32,SI,Android,3600,Dorado,Dual,12500,0
+4,Samsung Galaxy S8,12,SI,8,SI,5.8,4,64,SI,Android,3000,Negro,Dual,21000,0
+5,Samsung Galaxy S9,12,SI,8,SI,5.8,4,64,SI,Android,3000,Morado,Dual,31100,0
+6,Motorola Moto G5,13,SI,5,NO,5,2,16,SI,Android,2800,Gris,Dual,7000,0
+7,Motorola Moto C Plus,8,SI,2,SI,5,2,16,SI,Android,4000,Dorado,Single,5000,2
+8,Motorola Moto Z2 Play,12,SI,5,SI,5.5,4,64,SI,Android,3000,Negro,Dual,15500,0
+9,LG K4,5,SI,2,NO,4.5,1,8,SI,Android,1940,Negro,Single,3200,0
+10,LG K8,8,SI,5,NO,5,1.5,16,SI,Android,2125,Negro,Single,4900,0
+11,LG K10,13,SI,5,NO,5.3,1.5,16,SI,Android,2300,Negro,Dual,6100,0
+12,Xiaomi Redmi 5A,13,SI,5,SI,5,2,16,SI,Android,3000,Blanco,Dual,6200,0
+13,Xiaomi Redmi Note 5,12,SI,13,SI,5.99,4,64,SI,Android,4000,Negro,Dual,10800,0
+14,Xiaomi Mi A1,12,SI,5,NO,5.5,4,64,SI,Android,3080,Negro,Dual,9800,3
+15,Huawei P20 Pro,40,SI,24,NO,6.1,6,128,NO,Android,4000,Negro,Dual,38400,0
+16,Huawei P9,12,SI,8,SI,5.2,3,32,SI,Android,3000,Negro,Dual,11500,0
+17,iPhone 7,12,SI,7,NO,4.7,2,32,NO,iOS,1960,Negro,Single,27600,0
+18,iPhone 8,12,SI,7,NO,4.7,2,64,NO,iOS,1821,Negro,Single,36300,0
+19,iPhone X,12,SI,7,NO,5.8,3,64,NO,iOS,2716,Negro,Single,44700,1
